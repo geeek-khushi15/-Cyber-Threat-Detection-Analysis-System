@@ -72,10 +72,6 @@ The dataset cyber_logs.csv contains network traffic logs, including features lik
 Source & Destination IPs
 Protocols (TCP, UDP, ICMP)
 Attack Categories (DoS, Exploit, Fuzzers, etc.)
-🔹 Next Steps
-🔹 Add support for more ML models (XGBoost, LSTM, etc.)
-🔹 Deploy model using Streamlit or Flask
-🔹 Automate data collection for real-time analysis
 
 📌 Contributing
 Feel free to fork this repo and submit pull requests. Any improvements or feature additions are welcome!
